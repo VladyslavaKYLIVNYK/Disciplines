@@ -1,0 +1,16 @@
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\bin\Debug\FormsDisciplines.exe.config
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\bin\Debug\FormsDisciplines.exe
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\bin\Debug\FormsDisciplines.pdb
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.csproj.AssemblyReference.cache
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.Form1.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.FormGuest.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.FormStudent.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.FormTeacher.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.Properties.Resources.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.csproj.GenerateResource.cache
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.csproj.CoreCompileInputs.cache
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.exe
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.pdb
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\Disciplines.FormAdmin.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.ChoiceDisStud.resources
+D:\КПИ\ИК\3 курс\ТРПЗ Курсова\Disciplines\FormsDisciplines\obj\Debug\FormsDisciplines.TeacherEditingForm2.resources
